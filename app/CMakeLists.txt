@@ -35,7 +35,7 @@ find_library( # Sets the name of the path variable.
 
 set(distribution_DIR ${CMAKE_SOURCE_DIR}/../distribution)
 
-
+#import thrid-party library
 add_library(avcodec-57 SHARED IMPORTED)
 set_target_properties(avcodec-57
   PROPERTIES IMPORTED_LOCATION
@@ -74,12 +74,10 @@ set_target_properties(swscale-4
 target_include_directories(native-lib PRIVATE
                            ${distribution_DIR}/ffmpeg/include)
 
-target_link_libraries( # Specifies the target library.
-                       native-lib
+target_link_libraries( native-lib
 
-                       # Links the target library to the log library
-                       # included in the NDK.
                        ${log-lib}
+                       #third-party libraries
                        avcodec-57
                        avdevice-57
                        avfilter-6
