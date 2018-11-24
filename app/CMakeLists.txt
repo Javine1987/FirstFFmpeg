@@ -61,6 +61,11 @@ set_target_properties(avutil-55
   PROPERTIES IMPORTED_LOCATION
   ${distribution_DIR}/ffmpeg/lib/${ANDROID_ABI}/libavutil-55.so)
 
+add_library(postproc-54 SHARED IMPORTED)
+set_target_properties(postproc-54
+  PROPERTIES IMPORTED_LOCATION
+  ${distribution_DIR}/ffmpeg/lib/${ANDROID_ABI}/libpostproc-54.so)
+
 add_library(swresample-2 SHARED IMPORTED)
 set_target_properties(swresample-2
   PROPERTIES IMPORTED_LOCATION
@@ -83,5 +88,6 @@ target_link_libraries( native-lib
                        avfilter-6
                        avformat-57
                        avutil-55
+                       postproc-54
                        swresample-2
                        swscale-4)
