@@ -1,0 +1,906 @@
+Opening '/storage/emulated/0/DCIM/Video/V81124-181151.mp4' for reading
+Setting default whitelist 'file,crypto'
+Probing mov,mp4,m4a,3gp,3g2,mj2 score:100 size:2048
+Format mov,mp4,m4a,3gp,3g2,mj2 probed with size=2048 and score=100
+type: 70797466 'ftyp' parent:'root' sz: 24 8 19096078
+ISO: File Type Major Brand: mp42
+type: 7461646d 'mdat' parent:'root' sz: 19091739 32 19096078
+type: 766f6f6d 'moov' parent:'root' sz: 4315 19091771 19096078
+type: 6468766d 'mvhd' parent:'moov' sz: 108 8 4307
+time scale = 1000
+type: 61746475 'udta' parent:'moov' sz: 38 116 4307
+type: 7a7978a9 '©xyz' parent:'udta' sz: 30 8 30
+lang "eng" tag "location" value "+22.2746+113.5240/" atom "©xyz" 37 18
+type: 6174656d 'meta' parent:'moov' sz: 121 154 4307
+type: 726c6468 'hdlr' parent:'meta' sz: 33 8 113
+ctype=  (0x00000000)
+stype= mdta
+type: 7379656b 'keys' parent:'meta' sz: 43 41 113
+type: 74736c69 'ilst' parent:'meta' sz: 37 84 113
+type: 01000000 '' parent:'ilst' sz: 29 8 29
+lang "   " tag "com.android.version" value "7.1.1" atom "" 11 5
+type: 6b617274 'trak' parent:'moov' sz: 1873 275 4307
+type: 64686b74 'tkhd' parent:'trak' sz: 92 8 1865
+type: 6169646d 'mdia' parent:'trak' sz: 1773 100 1865
+type: 6468646d 'mdhd' parent:'mdia' sz: 32 8 1765
+type: 726c6468 'hdlr' parent:'mdia' sz: 44 40 1765
+ctype=  (0x00000000)
+stype= vide
+type: 666e696d 'minf' parent:'mdia' sz: 1689 84 1765
+type: 64686d76 'vmhd' parent:'minf' sz: 20 8 1681
+type: 666e6964 'dinf' parent:'minf' sz: 36 28 1681
+type: 66657264 'dref' parent:'dinf' sz: 28 8 28
+type url  size 12
+Unknown dref type 0x08206c7275 size 12
+type: 6c627473 'stbl' parent:'minf' sz: 1625 64 1681
+type: 64737473 'stsd' parent:'stbl' sz: 177 8 1617
+size=161 4CC= avc1/0x31637661 codec_type=0
+type: 43637661 'avcC' parent:'stsd' sz: 40 8 75
+type: 70736170 'pasp' parent:'stsd' sz: 16 48 75
+type: 726c6f63 'colr' parent:'stsd' sz: 19 64 75
+nclx: pri 1 trc 1 matrix 1 full 0
+type: 73747473 'stts' parent:'stbl' sz: 152 185 1617
+track[0].stts.entries = 17
+sample_count=1, sample_duration=2999
+sample_count=65, sample_duration=2999
+sample_count=1, sample_duration=3009
+sample_count=8, sample_duration=2998
+sample_count=1, sample_duration=3008
+sample_count=1, sample_duration=3000
+sample_count=8, sample_duration=2998
+sample_count=1, sample_duration=3008
+sample_count=78, sample_duration=2999
+sample_count=1, sample_duration=3009
+sample_count=9, sample_duration=2998
+sample_count=1, sample_duration=3008
+sample_count=8, sample_duration=2998
+sample_count=1, sample_duration=3009
+sample_count=63, sample_duration=2999
+sample_count=1, sample_duration=3009
+sample_count=19, sample_duration=2999
+type: 73737473 'stss' parent:'stbl' sz: 96 337 1617
+keyframe_count = 20
+type: 7a737473 'stsz' parent:'stbl' sz: 1088 433 1617
+sample_size = 0 sample_count = 267
+type: 63737473 'stsc' parent:'stbl' sz: 52 1521 1617
+track[0].stsc.entries = 3
+type: 6f637473 'stco' parent:'stbl' sz: 52 1573 1617
+AVIndex stream 0, sample 0, offset 42f2, dts 0, size 90069, distance 0, keyframe 1
+AVIndex stream 0, sample 1, offset 1a2c7, dts 2999, size 120612, distance 1, keyframe 0
+AVIndex stream 0, sample 2, offset 379eb, dts 5998, size 124046, distance 2, keyframe 0
+AVIndex stream 0, sample 3, offset 55e79, dts 8997, size 86839, distance 3, keyframe 0
+AVIndex stream 0, sample 4, offset 6b1b0, dts 11996, size 84713, distance 4, keyframe 0
+AVIndex stream 0, sample 5, offset 7fc99, dts 14995, size 80546, distance 5, keyframe 0
+AVIndex stream 0, sample 6, offset 9373b, dts 17994, size 75338, distance 6, keyframe 0
+AVIndex stream 0, sample 7, offset a5d85, dts 20993, size 72091, distance 7, keyframe 0
+AVIndex stream 0, sample 8, offset b7720, dts 23992, size 46746, distance 8, keyframe 0
+AVIndex stream 0, sample 9, offset c2dba, dts 26991, size 48062, distance 9, keyframe 0
+AVIndex stream 0, sample 10, offset ce978, dts 29990, size 59507, distance 10, keyframe 0
+AVIndex stream 0, sample 11, offset dd1eb, dts 32989, size 53488, distance 11, keyframe 0
+AVIndex stream 0, sample 12, offset ea2db, dts 35988, size 54786, distance 12, keyframe 0
+AVIndex stream 0, sample 13, offset f78dd, dts 38987, size 52375, distance 13, keyframe 0
+AVIndex stream 0, sample 14, offset 104574, dts 41986, size 84319, distance 0, keyframe 1
+AVIndex stream 0, sample 15, offset 118ed3, dts 44985, size 95683, distance 1, keyframe 0
+AVIndex stream 0, sample 16, offset 130496, dts 47984, size 88270, distance 2, keyframe 0
+AVIndex stream 0, sample 17, offset 145d64, dts 50983, size 86307, distance 3, keyframe 0
+AVIndex stream 0, sample 18, offset 15ae87, dts 53982, size 84213, distance 4, keyframe 0
+AVIndex stream 0, sample 19, offset 16f77c, dts 56981, size 83415, distance 5, keyframe 0
+AVIndex stream 0, sample 20, offset 183d53, dts 59980, size 59184, distance 6, keyframe 0
+AVIndex stream 0, sample 21, offset 192483, dts 62979, size 58295, distance 7, keyframe 0
+AVIndex stream 0, sample 22, offset 1a083a, dts 65978, size 77185, distance 8, keyframe 0
+AVIndex stream 0, sample 23, offset 1b35bb, dts 68977, size 57068, distance 9, keyframe 0
+AVIndex stream 0, sample 24, offset 1c14a7, dts 71976, size 57657, distance 10, keyframe 0
+AVIndex stream 0, sample 25, offset 1cf5e0, dts 74975, size 59503, distance 11, keyframe 0
+AVIndex stream 0, sample 26, offset 1dde4f, dts 77974, size 49939, distance 12, keyframe 0
+AVIndex stream 0, sample 27, offset 1ea162, dts 80973, size 48653, distance 13, keyframe 0
+AVIndex stream 0, sample 28, offset 1f5f6f, dts 83972, size 79684, distance 0, keyframe 1
+AVIndex stream 0, sample 29, offset 2096b3, dts 86971, size 94328, distance 1, keyframe 0
+AVIndex stream 0, sample 30, offset 22072b, dts 89970, size 91016, distance 2, keyframe 0
+AVIndex stream 0, sample 31, offset 236ab3, dts 92969, size 87010, distance 3, keyframe 0
+AVIndex stream 0, sample 32, offset 24be95, dts 95968, size 86138, distance 4, keyframe 0
+AVIndex stream 0, sample 33, offset 264d83, dts 98967, size 86845, distance 5, keyframe 0
+AVIndex stream 0, sample 34, offset 27a0c0, dts 101966, size 61616, distance 6, keyframe 0
+AVIndex stream 0, sample 35, offset 289170, dts 104965, size 56805, distance 7, keyframe 0
+AVIndex stream 0, sample 36, offset 296f55, dts 107964, size 55165, distance 8, keyframe 0
+AVIndex stream 0, sample 37, offset 2a46d2, dts 110963, size 77559, distance 9, keyframe 0
+AVIndex stream 0, sample 38, offset 2b75c9, dts 113962, size 60471, distance 10, keyframe 0
+AVIndex stream 0, sample 39, offset 2c6200, dts 116961, size 45049, distance 11, keyframe 0
+AVIndex stream 0, sample 40, offset 2d11f9, dts 119960, size 44168, distance 12, keyframe 0
+AVIndex stream 0, sample 41, offset 2dbe81, dts 122959, size 40331, distance 13, keyframe 0
+AVIndex stream 0, sample 42, offset 2e5c0c, dts 125958, size 70666, distance 0, keyframe 1
+AVIndex stream 0, sample 43, offset 2f7016, dts 128957, size 90275, distance 1, keyframe 0
+AVIndex stream 0, sample 44, offset 30d0b9, dts 131956, size 96386, distance 2, keyframe 0
+AVIndex stream 0, sample 45, offset 32493b, dts 134955, size 81669, distance 3, keyframe 0
+AVIndex stream 0, sample 46, offset 338840, dts 137954, size 73705, distance 4, keyframe 0
+AVIndex stream 0, sample 47, offset 34a829, dts 140953, size 83145, distance 5, keyframe 0
+AVIndex stream 0, sample 48, offset 35ecf2, dts 143952, size 74228, distance 6, keyframe 0
+AVIndex stream 0, sample 49, offset 370ee6, dts 146951, size 58274, distance 7, keyframe 0
+AVIndex stream 0, sample 50, offset 37f288, dts 149950, size 63118, distance 8, keyframe 0
+AVIndex stream 0, sample 51, offset 38e916, dts 152949, size 71462, distance 9, keyframe 0
+AVIndex stream 0, sample 52, offset 3a003c, dts 155948, size 62895, distance 10, keyframe 0
+AVIndex stream 0, sample 53, offset 3af5eb, dts 158947, size 60626, distance 11, keyframe 0
+AVIndex stream 0, sample 54, offset 3be2bd, dts 161946, size 50510, distance 12, keyframe 0
+AVIndex stream 0, sample 55, offset 3ca80b, dts 164945, size 41812, distance 13, keyframe 0
+AVIndex stream 0, sample 56, offset 3d4b5f, dts 167944, size 79123, distance 0, keyframe 1
+AVIndex stream 0, sample 57, offset 3e8072, dts 170943, size 81498, distance 1, keyframe 0
+AVIndex stream 0, sample 58, offset 3fbecc, dts 173942, size 118340, distance 2, keyframe 0
+AVIndex stream 0, sample 59, offset 418d10, dts 176941, size 75223, distance 3, keyframe 0
+AVIndex stream 0, sample 60, offset 42b2e7, dts 179940, size 72616, distance 4, keyframe 0
+AVIndex stream 0, sample 61, offset 43ce8f, dts 182939, size 70228, distance 5, keyframe 0
+AVIndex stream 0, sample 62, offset 44e0e3, dts 185938, size 68415, distance 6, keyframe 0
+AVIndex stream 0, sample 63, offset 45ec22, dts 188937, size 65452, distance 7, keyframe 0
+AVIndex stream 0, sample 64, offset 472a68, dts 191936, size 63149, distance 8, keyframe 0
+AVIndex stream 0, sample 65, offset 482115, dts 194935, size 63581, distance 9, keyframe 0
+AVIndex stream 0, sample 66, offset 491972, dts 197934, size 65348, distance 10, keyframe 0
+AVIndex stream 0, sample 67, offset 4a18b6, dts 200943, size 62855, distance 11, keyframe 0
+AVIndex stream 0, sample 68, offset 4b0e3d, dts 203941, size 59995, distance 12, keyframe 0
+AVIndex stream 0, sample 69, offset 4bf898, dts 206939, size 49994, distance 13, keyframe 0
+AVIndex stream 0, sample 70, offset 4cbbe2, dts 209937, size 71012, distance 0, keyframe 1
+AVIndex stream 0, sample 71, offset 4dd146, dts 212935, size 87498, distance 1, keyframe 0
+AVIndex stream 0, sample 72, offset 4f2710, dts 215933, size 108555, distance 2, keyframe 0
+AVIndex stream 0, sample 73, offset 50cf1b, dts 218931, size 76562, distance 3, keyframe 0
+AVIndex stream 0, sample 74, offset 51fa2d, dts 221929, size 75318, distance 4, keyframe 0
+AVIndex stream 0, sample 75, offset 532063, dts 224927, size 74548, distance 5, keyframe 0
+AVIndex stream 0, sample 76, offset 544397, dts 227935, size 73267, distance 6, keyframe 0
+AVIndex stream 0, sample 77, offset 5561ca, dts 230935, size 76944, distance 7, keyframe 0
+AVIndex stream 0, sample 78, offset 568e5a, dts 233933, size 67120, distance 8, keyframe 0
+AVIndex stream 0, sample 79, offset 57948a, dts 236931, size 65663, distance 9, keyframe 0
+AVIndex stream 0, sample 80, offset 589509, dts 239929, size 57707, distance 10, keyframe 0
+AVIndex stream 0, sample 81, offset 597674, dts 242927, size 62780, distance 11, keyframe 0
+AVIndex stream 0, sample 82, offset 5a6bb0, dts 245925, size 59722, distance 12, keyframe 0
+AVIndex stream 0, sample 83, offset 5b54fa, dts 248923, size 51064, distance 13, keyframe 0
+AVIndex stream 0, sample 84, offset 5c1c72, dts 251921, size 72051, distance 0, keyframe 1
+AVIndex stream 0, sample 85, offset 5d35e5, dts 254919, size 81930, distance 1, keyframe 0
+AVIndex stream 0, sample 86, offset 5e75ef, dts 257927, size 90052, distance 2, keyframe 0
+AVIndex stream 0, sample 87, offset 5fd5b3, dts 260926, size 79879, distance 3, keyframe 0
+AVIndex stream 0, sample 88, offset 610dba, dts 263925, size 78418, distance 4, keyframe 0
+AVIndex stream 0, sample 89, offset 62400c, dts 266924, size 77632, distance 5, keyframe 0
+AVIndex stream 0, sample 90, offset 636f4c, dts 269923, size 61007, distance 6, keyframe 0
+AVIndex stream 0, sample 91, offset 645d9b, dts 272922, size 59915, distance 7, keyframe 0
+AVIndex stream 0, sample 92, offset 6547a6, dts 275921, size 103708, distance 8, keyframe 0
+AVIndex stream 0, sample 93, offset 66dcc2, dts 278920, size 63849, distance 9, keyframe 0
+AVIndex stream 0, sample 94, offset 67d62b, dts 281919, size 50730, distance 10, keyframe 0
+AVIndex stream 0, sample 95, offset 68db24, dts 284918, size 49317, distance 11, keyframe 0
+AVIndex stream 0, sample 96, offset 699bc9, dts 287917, size 48972, distance 12, keyframe 0
+AVIndex stream 0, sample 97, offset 6a5b15, dts 290916, size 46456, distance 13, keyframe 0
+AVIndex stream 0, sample 98, offset 6b108d, dts 293915, size 72870, distance 0, keyframe 1
+AVIndex stream 0, sample 99, offset 6c2d33, dts 296914, size 89172, distance 1, keyframe 0
+AVIndex stream 0, sample 100, offset 6d8987, dts 299913, size 119143, distance 2, keyframe 0
+AVIndex stream 0, sample 101, offset 6f5aee, dts 302912, size 63431, distance 3, keyframe 0
+AVIndex stream 0, sample 102, offset 7052b5, dts 305911, size 61168, distance 4, keyframe 0
+AVIndex stream 0, sample 103, offset 7141a5, dts 308910, size 77298, distance 5, keyframe 0
+AVIndex stream 0, sample 104, offset 726f97, dts 311909, size 77443, distance 6, keyframe 0
+AVIndex stream 0, sample 105, offset 739e1a, dts 314908, size 77956, distance 7, keyframe 0
+AVIndex stream 0, sample 106, offset 74ce9e, dts 317907, size 69998, distance 8, keyframe 0
+AVIndex stream 0, sample 107, offset 75e00c, dts 320906, size 78747, distance 9, keyframe 0
+AVIndex stream 0, sample 108, offset 7713a7, dts 323905, size 68485, distance 10, keyframe 0
+AVIndex stream 0, sample 109, offset 781f2c, dts 326904, size 60276, distance 11, keyframe 0
+AVIndex stream 0, sample 110, offset 790aa0, dts 329903, size 48568, distance 12, keyframe 0
+AVIndex stream 0, sample 111, offset 79c858, dts 332902, size 48627, distance 13, keyframe 0
+AVIndex stream 0, sample 112, offset 7a864b, dts 335901, size 84483, distance 0, keyframe 1
+AVIndex stream 0, sample 113, offset 7bd04e, dts 338900, size 88030, distance 1, keyframe 0
+AVIndex stream 0, sample 114, offset 7d282c, dts 341899, size 73017, distance 2, keyframe 0
+AVIndex stream 0, sample 115, offset 7e4565, dts 344898, size 93588, distance 3, keyframe 0
+AVIndex stream 0, sample 116, offset 7fb2f9, dts 347897, size 85251, distance 4, keyframe 0
+AVIndex stream 0, sample 117, offset 80fffc, dts 350896, size 72986, distance 5, keyframe 0
+AVIndex stream 0, sample 118, offset 821d16, dts 353895, size 80464, distance 6, keyframe 0
+AVIndex stream 0, sample 119, offset 835766, dts 356894, size 68964, distance 7, keyframe 0
+AVIndex stream 0, sample 120, offset 8464ca, dts 359893, size 60247, distance 8, keyframe 0
+AVIndex stream 0, sample 121, offset 855021, dts 362892, size 58183, distance 9, keyframe 0
+AVIndex stream 0, sample 122, offset 863368, dts 365891, size 58235, distance 10, keyframe 0
+AVIndex stream 0, sample 123, offset 8716e3, dts 368890, size 57310, distance 11, keyframe 0
+AVIndex stream 0, sample 124, offset 87f6c1, dts 371889, size 79282, distance 12, keyframe 0
+AVIndex stream 0, sample 125, offset 892c73, dts 374888, size 43934, distance 13, keyframe 0
+AVIndex stream 0, sample 126, offset 8a1688, dts 377887, size 64882, distance 0, keyframe 1
+AVIndex stream 0, sample 127, offset 8b13fa, dts 380886, size 85920, distance 1, keyframe 0
+AVIndex stream 0, sample 128, offset 8c639a, dts 383885, size 96561, distance 2, keyframe 0
+AVIndex stream 0, sample 129, offset 8ddccb, dts 386884, size 84697, distance 3, keyframe 0
+AVIndex stream 0, sample 130, offset 8f27a4, dts 389883, size 74768, distance 4, keyframe 0
+AVIndex stream 0, sample 131, offset 904bb4, dts 392882, size 82150, distance 5, keyframe 0
+AVIndex stream 0, sample 132, offset 918c9a, dts 395881, size 74454, distance 6, keyframe 0
+AVIndex stream 0, sample 133, offset 92af70, dts 398880, size 64839, distance 7, keyframe 0
+AVIndex stream 0, sample 134, offset 93acb7, dts 401879, size 71963, distance 8, keyframe 0
+AVIndex stream 0, sample 135, offset 94c5d2, dts 404878, size 70577, distance 9, keyframe 0
+AVIndex stream 0, sample 136, offset 95d983, dts 407877, size 58962, distance 10, keyframe 0
+AVIndex stream 0, sample 137, offset 96bfd5, dts 410876, size 56549, distance 11, keyframe 0
+AVIndex stream 0, sample 138, offset 979cba, dts 413875, size 48591, distance 12, keyframe 0
+AVIndex stream 0, sample 139, offset 985a89, dts 416874, size 49398, distance 13, keyframe 0
+AVIndex stream 0, sample 140, offset 991b7f, dts 419873, size 92692, distance 0, keyframe 1
+AVIndex stream 0, sample 141, offset 9a8593, dts 422872, size 95333, distance 1, keyframe 0
+AVIndex stream 0, sample 142, offset 9bf9f8, dts 425871, size 84052, distance 2, keyframe 0
+AVIndex stream 0, sample 143, offset 9d424c, dts 428870, size 79406, distance 3, keyframe 0
+AVIndex stream 0, sample 144, offset 9e787a, dts 431869, size 75872, distance 4, keyframe 0
+AVIndex stream 0, sample 145, offset 9fa0da, dts 434868, size 84525, distance 5, keyframe 0
+AVIndex stream 0, sample 146, offset a0eb07, dts 437867, size 73618, distance 6, keyframe 0
+AVIndex stream 0, sample 147, offset a20a99, dts 440866, size 75939, distance 7, keyframe 0
+AVIndex stream 0, sample 148, offset a3333c, dts 443865, size 63020, distance 8, keyframe 0
+AVIndex stream 0, sample 149, offset a42968, dts 446864, size 60615, distance 9, keyframe 0
+AVIndex stream 0, sample 150, offset a5162f, dts 449863, size 58299, distance 10, keyframe 0
+AVIndex stream 0, sample 151, offset a5f9ea, dts 452862, size 56062, distance 11, keyframe 0
+AVIndex stream 0, sample 152, offset a6d4e8, dts 455861, size 50634, distance 12, keyframe 0
+AVIndex stream 0, sample 153, offset a79ab2, dts 458860, size 49589, distance 13, keyframe 0
+AVIndex stream 0, sample 154, offset a85c67, dts 461859, size 87161, distance 0, keyframe 1
+AVIndex stream 0, sample 155, offset a9b0e0, dts 464858, size 89563, distance 1, keyframe 0
+AVIndex stream 0, sample 156, offset ab0ebb, dts 467857, size 79299, distance 2, keyframe 0
+AVIndex stream 0, sample 157, offset ac8357, dts 470856, size 86687, distance 3, keyframe 0
+AVIndex stream 0, sample 158, offset add5f6, dts 473855, size 75604, distance 4, keyframe 0
+AVIndex stream 0, sample 159, offset aefd4a, dts 476854, size 101084, distance 5, keyframe 0
+AVIndex stream 0, sample 160, offset b08826, dts 479853, size 66069, distance 6, keyframe 0
+AVIndex stream 0, sample 161, offset b18a3b, dts 482852, size 63986, distance 7, keyframe 0
+AVIndex stream 0, sample 162, offset b2842d, dts 485851, size 61813, distance 8, keyframe 0
+AVIndex stream 0, sample 163, offset b375a2, dts 488850, size 60277, distance 9, keyframe 0
+AVIndex stream 0, sample 164, offset b46117, dts 491849, size 65971, distance 10, keyframe 0
+AVIndex stream 0, sample 165, offset b562ca, dts 494858, size 65478, distance 11, keyframe 0
+AVIndex stream 0, sample 166, offset b66290, dts 497856, size 39262, distance 12, keyframe 0
+AVIndex stream 0, sample 167, offset b6fbee, dts 500854, size 38516, distance 13, keyframe 0
+AVIndex stream 0, sample 168, offset b79262, dts 503852, size 70422, distance 0, keyframe 1
+AVIndex stream 0, sample 169, offset b8a578, dts 506850, size 94157, distance 1, keyframe 0
+AVIndex stream 0, sample 170, offset ba1545, dts 509848, size 119960, distance 2, keyframe 0
+AVIndex stream 0, sample 171, offset bbe9dd, dts 512846, size 77005, distance 3, keyframe 0
+AVIndex stream 0, sample 172, offset bd16aa, dts 515844, size 72022, distance 4, keyframe 0
+AVIndex stream 0, sample 173, offset be3000, dts 518842, size 76241, distance 5, keyframe 0
+AVIndex stream 0, sample 174, offset bf59d1, dts 521840, size 67820, distance 6, keyframe 0
+AVIndex stream 0, sample 175, offset c062bd, dts 524848, size 75692, distance 7, keyframe 0
+AVIndex stream 0, sample 176, offset c18a69, dts 527846, size 72024, distance 8, keyframe 0
+AVIndex stream 0, sample 177, offset c2a3c1, dts 530844, size 58215, distance 9, keyframe 0
+AVIndex stream 0, sample 178, offset c38728, dts 533842, size 55193, distance 10, keyframe 0
+AVIndex stream 0, sample 179, offset c45ec1, dts 536840, size 53999, distance 11, keyframe 0
+AVIndex stream 0, sample 180, offset c531b0, dts 539838, size 55062, distance 12, keyframe 0
+AVIndex stream 0, sample 181, offset c608c6, dts 542836, size 47041, distance 13, keyframe 0
+AVIndex stream 0, sample 182, offset c6c087, dts 545834, size 88426, distance 0, keyframe 1
+AVIndex stream 0, sample 183, offset c819f1, dts 548832, size 92323, distance 1, keyframe 0
+AVIndex stream 0, sample 184, offset c98294, dts 551841, size 86019, distance 2, keyframe 0
+AVIndex stream 0, sample 185, offset cad297, dts 554840, size 77699, distance 3, keyframe 0
+AVIndex stream 0, sample 186, offset cc021a, dts 557839, size 71316, distance 4, keyframe 0
+AVIndex stream 0, sample 187, offset cd18ae, dts 560838, size 80839, distance 5, keyframe 0
+AVIndex stream 0, sample 188, offset ce932d, dts 563837, size 71833, distance 6, keyframe 0
+AVIndex stream 0, sample 189, offset cfabc6, dts 566836, size 78293, distance 7, keyframe 0
+AVIndex stream 0, sample 190, offset d0dd9b, dts 569835, size 66530, distance 8, keyframe 0
+AVIndex stream 0, sample 191, offset d1e17d, dts 572834, size 62538, distance 9, keyframe 0
+AVIndex stream 0, sample 192, offset d2d5c7, dts 575833, size 58941, distance 10, keyframe 0
+AVIndex stream 0, sample 193, offset d3bc04, dts 578832, size 57982, distance 11, keyframe 0
+AVIndex stream 0, sample 194, offset d49e82, dts 581831, size 50414, distance 12, keyframe 0
+AVIndex stream 0, sample 195, offset d56370, dts 584830, size 51217, distance 13, keyframe 0
+AVIndex stream 0, sample 196, offset d62b81, dts 587829, size 106787, distance 0, keyframe 1
+AVIndex stream 0, sample 197, offset d7cca4, dts 590828, size 84720, distance 1, keyframe 0
+AVIndex stream 0, sample 198, offset d91794, dts 593827, size 77591, distance 2, keyframe 0
+AVIndex stream 0, sample 199, offset da46ab, dts 596826, size 80007, distance 3, keyframe 0
+AVIndex stream 0, sample 200, offset db7f32, dts 599825, size 66573, distance 4, keyframe 0
+AVIndex stream 0, sample 201, offset dc833f, dts 602824, size 80280, distance 5, keyframe 0
+AVIndex stream 0, sample 202, offset ddbcd7, dts 605823, size 72325, distance 6, keyframe 0
+AVIndex stream 0, sample 203, offset ded75c, dts 608822, size 54245, distance 7, keyframe 0
+AVIndex stream 0, sample 204, offset dfab41, dts 611821, size 67520, distance 8, keyframe 0
+AVIndex stream 0, sample 205, offset e0b301, dts 614820, size 66396, distance 9, keyframe 0
+AVIndex stream 0, sample 206, offset e1b65d, dts 617819, size 56159, distance 10, keyframe 0
+AVIndex stream 0, sample 207, offset e291bc, dts 620818, size 62400, distance 11, keyframe 0
+AVIndex stream 0, sample 208, offset e3857c, dts 623817, size 50180, distance 12, keyframe 0
+AVIndex stream 0, sample 209, offset e44980, dts 626816, size 37264, distance 13, keyframe 0
+AVIndex stream 0, sample 210, offset e4db10, dts 629815, size 67560, distance 0, keyframe 1
+AVIndex stream 0, sample 211, offset e5e2f8, dts 632814, size 82948, distance 1, keyframe 0
+AVIndex stream 0, sample 212, offset e726fc, dts 635813, size 102770, distance 2, keyframe 0
+AVIndex stream 0, sample 213, offset e8b86e, dts 638812, size 91468, distance 3, keyframe 0
+AVIndex stream 0, sample 214, offset ea1dba, dts 641811, size 76754, distance 4, keyframe 0
+AVIndex stream 0, sample 215, offset eb498c, dts 644810, size 77044, distance 5, keyframe 0
+AVIndex stream 0, sample 216, offset ec7680, dts 647809, size 74127, distance 6, keyframe 0
+AVIndex stream 0, sample 217, offset ed980f, dts 650808, size 73578, distance 7, keyframe 0
+AVIndex stream 0, sample 218, offset eeb779, dts 653807, size 72061, distance 8, keyframe 0
+AVIndex stream 0, sample 219, offset f00f9a, dts 656806, size 61425, distance 9, keyframe 0
+AVIndex stream 0, sample 220, offset f0ff8b, dts 659805, size 61391, distance 10, keyframe 0
+AVIndex stream 0, sample 221, offset f1ef5a, dts 662804, size 66151, distance 11, keyframe 0
+AVIndex stream 0, sample 222, offset f2f1c1, dts 665803, size 50346, distance 12, keyframe 0
+AVIndex stream 0, sample 223, offset f3b66b, dts 668802, size 43420, distance 13, keyframe 0
+AVIndex stream 0, sample 224, offset f46007, dts 671801, size 80587, distance 0, keyframe 1
+AVIndex stream 0, sample 225, offset f59ad2, dts 674800, size 86807, distance 1, keyframe 0
+AVIndex stream 0, sample 226, offset f6ede9, dts 677799, size 92835, distance 2, keyframe 0
+AVIndex stream 0, sample 227, offset f8588c, dts 680798, size 80662, distance 3, keyframe 0
+AVIndex stream 0, sample 228, offset f993a2, dts 683797, size 84720, distance 4, keyframe 0
+AVIndex stream 0, sample 229, offset fade92, dts 686796, size 73765, distance 5, keyframe 0
+AVIndex stream 0, sample 230, offset fbfeb7, dts 689795, size 70097, distance 6, keyframe 0
+AVIndex stream 0, sample 231, offset fd1088, dts 692794, size 76446, distance 7, keyframe 0
+AVIndex stream 0, sample 232, offset fe3b26, dts 695793, size 66896, distance 8, keyframe 0
+AVIndex stream 0, sample 233, offset ff4076, dts 698792, size 63718, distance 9, keyframe 0
+AVIndex stream 0, sample 234, offset 100395c, dts 701791, size 62114, distance 10, keyframe 0
+AVIndex stream 0, sample 235, offset 1012bfe, dts 704790, size 51939, distance 11, keyframe 0
+AVIndex stream 0, sample 236, offset 101f6e1, dts 707789, size 60690, distance 12, keyframe 0
+AVIndex stream 0, sample 237, offset 102e3f3, dts 710788, size 49850, distance 13, keyframe 0
+AVIndex stream 0, sample 238, offset 103a6ad, dts 713787, size 92032, distance 0, keyframe 1
+AVIndex stream 0, sample 239, offset 1050e2d, dts 716786, size 86208, distance 1, keyframe 0
+AVIndex stream 0, sample 240, offset 1065eed, dts 719785, size 73147, distance 2, keyframe 0
+AVIndex stream 0, sample 241, offset 1077ca8, dts 722784, size 90950, distance 3, keyframe 0
+AVIndex stream 0, sample 242, offset 108dfee, dts 725783, size 74380, distance 4, keyframe 0
+AVIndex stream 0, sample 243, offset 10a027a, dts 728782, size 79097, distance 5, keyframe 0
+AVIndex stream 0, sample 244, offset 10b3773, dts 731781, size 70456, distance 6, keyframe 0
+AVIndex stream 0, sample 245, offset 10c4aab, dts 734780, size 68981, distance 7, keyframe 0
+AVIndex stream 0, sample 246, offset 10d5820, dts 737779, size 79059, distance 8, keyframe 0
+AVIndex stream 0, sample 247, offset 10e8cf3, dts 740778, size 66473, distance 9, keyframe 0
+AVIndex stream 0, sample 248, offset 10f909c, dts 743787, size 60023, distance 10, keyframe 0
+AVIndex stream 0, sample 249, offset 1107b13, dts 746786, size 51549, distance 11, keyframe 0
+AVIndex stream 0, sample 250, offset 1114470, dts 749785, size 37348, distance 12, keyframe 0
+AVIndex stream 0, sample 251, offset 111d654, dts 752784, size 31178, distance 13, keyframe 0
+AVIndex stream 0, sample 252, offset 112501e, dts 755783, size 84329, distance 0, keyframe 1
+AVIndex stream 0, sample 253, offset 1139987, dts 758782, size 90271, distance 1, keyframe 0
+AVIndex stream 0, sample 254, offset 114fa26, dts 761781, size 94210, distance 2, keyframe 0
+AVIndex stream 0, sample 255, offset 1166a28, dts 764780, size 80549, distance 3, keyframe 0
+AVIndex stream 0, sample 256, offset 117a4cd, dts 767779, size 83449, distance 4, keyframe 0
+AVIndex stream 0, sample 257, offset 118eac6, dts 770778, size 75430, distance 5, keyframe 0
+AVIndex stream 0, sample 258, offset 11a116c, dts 773777, size 81610, distance 6, keyframe 0
+AVIndex stream 0, sample 259, offset 11b5036, dts 776776, size 72026, distance 7, keyframe 0
+AVIndex stream 0, sample 260, offset 11c6990, dts 779775, size 73942, distance 8, keyframe 0
+AVIndex stream 0, sample 261, offset 11d8a66, dts 782774, size 62919, distance 9, keyframe 0
+AVIndex stream 0, sample 262, offset 11e802d, dts 785773, size 57080, distance 10, keyframe 0
+AVIndex stream 0, sample 263, offset 11f5f25, dts 788772, size 58367, distance 11, keyframe 0
+AVIndex stream 0, sample 264, offset 1204324, dts 791771, size 38957, distance 12, keyframe 0
+AVIndex stream 0, sample 265, offset 120db51, dts 794770, size 54025, distance 13, keyframe 0
+AVIndex stream 0, sample 266, offset 121ae5a, dts 797769, size 93943, distance 0, keyframe 1
+type: 6b617274 'trak' parent:'moov' sz: 2167 2148 4307
+type: 64686b74 'tkhd' parent:'trak' sz: 92 8 2159
+type: 6169646d 'mdia' parent:'trak' sz: 2067 100 2159
+type: 6468646d 'mdhd' parent:'mdia' sz: 32 8 2059
+type: 726c6468 'hdlr' parent:'mdia' sz: 44 40 2059
+ctype=  (0x00000000)
+stype= soun
+type: 666e696d 'minf' parent:'mdia' sz: 1983 84 2059
+type: 64686d73 'smhd' parent:'minf' sz: 16 8 1975
+type: 666e6964 'dinf' parent:'minf' sz: 36 24 1975
+type: 66657264 'dref' parent:'dinf' sz: 28 8 28
+type url  size 12
+Unknown dref type 0x08206c7275 size 12
+type: 6c627473 'stbl' parent:'minf' sz: 1923 60 1975
+type: 64737473 'stsd' parent:'stbl' sz: 91 8 1915
+size=75 4CC= mp4a/0x6134706d codec_type=1
+audio channels 2
+version =0, isom =1
+type: 73647365 'esds' parent:'stsd' sz: 39 8 39
+MPEG-4 description: tag=0x03 len=25
+MPEG-4 description: tag=0x04 len=17
+esds object type id 0x40
+MPEG-4 description: tag=0x05 len=2
+Specific MPEG-4 header len=2
+mp4a config channels 2 obj 2 ext obj 0 sample rate 48000 ext sample rate 0
+type: 73747473 'stts' parent:'stbl' sz: 32 99 1915
+track[1].stts.entries = 2
+sample_count=1, sample_duration=3047
+sample_count=416, sample_duration=1024
+type: 7a737473 'stsz' parent:'stbl' sz: 1688 131 1915
+sample_size = 0 sample_count = 417
+type: 63737473 'stsc' parent:'stbl' sz: 52 1819 1915
+track[1].stsc.entries = 3
+type: 6f637473 'stco' parent:'stbl' sz: 52 1871 1915
+AVIndex stream 1, sample 0, offset 20, dts 0, size 479, distance 0, keyframe 1
+AVIndex stream 1, sample 1, offset 1ff, dts 3047, size 477, distance 0, keyframe 1
+AVIndex stream 1, sample 2, offset 3dc, dts 4071, size 438, distance 0, keyframe 1
+AVIndex stream 1, sample 3, offset 592, dts 5095, size 427, distance 0, keyframe 1
+AVIndex stream 1, sample 4, offset 73d, dts 6119, size 418, distance 0, keyframe 1
+AVIndex stream 1, sample 5, offset 8df, dts 7143, size 399, distance 0, keyframe 1
+AVIndex stream 1, sample 6, offset a6e, dts 8167, size 390, distance 0, keyframe 1
+AVIndex stream 1, sample 7, offset bf4, dts 9191, size 380, distance 0, keyframe 1
+AVIndex stream 1, sample 8, offset d70, dts 10215, size 384, distance 0, keyframe 1
+AVIndex stream 1, sample 9, offset ef0, dts 11239, size 363, distance 0, keyframe 1
+AVIndex stream 1, sample 10, offset 105b, dts 12263, size 369, distance 0, keyframe 1
+AVIndex stream 1, sample 11, offset 11cc, dts 13287, size 357, distance 0, keyframe 1
+AVIndex stream 1, sample 12, offset 1331, dts 14311, size 358, distance 0, keyframe 1
+AVIndex stream 1, sample 13, offset 1497, dts 15335, size 360, distance 0, keyframe 1
+AVIndex stream 1, sample 14, offset 15ff, dts 16359, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 15, offset 175b, dts 17383, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 16, offset 18ac, dts 18407, size 359, distance 0, keyframe 1
+AVIndex stream 1, sample 17, offset 1a13, dts 19431, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 18, offset 1b6e, dts 20455, size 325, distance 0, keyframe 1
+AVIndex stream 1, sample 19, offset 1cb3, dts 21479, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 20, offset 1e03, dts 22503, size 319, distance 0, keyframe 1
+AVIndex stream 1, sample 21, offset 1f42, dts 23527, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 22, offset 208d, dts 24551, size 320, distance 0, keyframe 1
+AVIndex stream 1, sample 23, offset 21cd, dts 25575, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 24, offset 2318, dts 26599, size 321, distance 0, keyframe 1
+AVIndex stream 1, sample 25, offset 2459, dts 27623, size 307, distance 0, keyframe 1
+AVIndex stream 1, sample 26, offset 258c, dts 28647, size 320, distance 0, keyframe 1
+AVIndex stream 1, sample 27, offset 26cc, dts 29671, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 28, offset 2815, dts 30695, size 325, distance 0, keyframe 1
+AVIndex stream 1, sample 29, offset 295a, dts 31719, size 319, distance 0, keyframe 1
+AVIndex stream 1, sample 30, offset 2a99, dts 32743, size 308, distance 0, keyframe 1
+AVIndex stream 1, sample 31, offset 2bcd, dts 33767, size 321, distance 0, keyframe 1
+AVIndex stream 1, sample 32, offset 2d0e, dts 34791, size 321, distance 0, keyframe 1
+AVIndex stream 1, sample 33, offset 2e4f, dts 35815, size 319, distance 0, keyframe 1
+AVIndex stream 1, sample 34, offset 2f8e, dts 36839, size 306, distance 0, keyframe 1
+AVIndex stream 1, sample 35, offset 30c0, dts 37863, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 36, offset 320b, dts 38887, size 323, distance 0, keyframe 1
+AVIndex stream 1, sample 37, offset 334e, dts 39911, size 317, distance 0, keyframe 1
+AVIndex stream 1, sample 38, offset 348b, dts 40935, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 39, offset 35d8, dts 41959, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 40, offset 3721, dts 42983, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 41, offset 386d, dts 44007, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 42, offset 39c1, dts 45031, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 43, offset 3b1d, dts 46055, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 44, offset 3c69, dts 47079, size 325, distance 0, keyframe 1
+AVIndex stream 1, sample 45, offset 3dae, dts 48103, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 46, offset 3efb, dts 49127, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 47, offset 404d, dts 50151, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 48, offset 419e, dts 51175, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 49, offset 260f0f, dts 52199, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 50, offset 261064, dts 53223, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 51, offset 2611b0, dts 54247, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 52, offset 2612f6, dts 55271, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 53, offset 26144c, dts 56295, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 54, offset 26159d, dts 57319, size 324, distance 0, keyframe 1
+AVIndex stream 1, sample 55, offset 2616e1, dts 58343, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 56, offset 261832, dts 59367, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 57, offset 26198d, dts 60391, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 58, offset 261ad6, dts 61415, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 59, offset 261c29, dts 62439, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 60, offset 261d7b, dts 63463, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 61, offset 261ed7, dts 64487, size 359, distance 0, keyframe 1
+AVIndex stream 1, sample 62, offset 26203e, dts 65511, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 63, offset 26218d, dts 66535, size 330, distance 0, keyframe 1
+AVIndex stream 1, sample 64, offset 2622d7, dts 67559, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 65, offset 262425, dts 68583, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 66, offset 26257a, dts 69607, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 67, offset 2626c6, dts 70631, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 68, offset 262822, dts 71655, size 359, distance 0, keyframe 1
+AVIndex stream 1, sample 69, offset 262989, dts 72679, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 70, offset 262adb, dts 73703, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 71, offset 262c39, dts 74727, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 72, offset 262d87, dts 75751, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 73, offset 262edb, dts 76775, size 358, distance 0, keyframe 1
+AVIndex stream 1, sample 74, offset 263041, dts 77799, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 75, offset 263196, dts 78823, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 76, offset 2632e9, dts 79847, size 327, distance 0, keyframe 1
+AVIndex stream 1, sample 77, offset 263430, dts 80871, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 78, offset 263585, dts 81895, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 79, offset 2636d1, dts 82919, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 80, offset 26381f, dts 83943, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 81, offset 263976, dts 84967, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 82, offset 263ad3, dts 85991, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 83, offset 263c2c, dts 87015, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 84, offset 263d88, dts 88039, size 323, distance 0, keyframe 1
+AVIndex stream 1, sample 85, offset 263ecb, dts 89063, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 86, offset 26401e, dts 90087, size 359, distance 0, keyframe 1
+AVIndex stream 1, sample 87, offset 264185, dts 91111, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 88, offset 2642da, dts 92135, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 89, offset 26442e, dts 93159, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 90, offset 264583, dts 94183, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 91, offset 2646d6, dts 95207, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 92, offset 26482e, dts 96231, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 93, offset 26497e, dts 97255, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 94, offset 264ad8, dts 98279, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 95, offset 264c2f, dts 99303, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 96, offset 46ebce, dts 100327, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 97, offset 46ed20, dts 101351, size 328, distance 0, keyframe 1
+AVIndex stream 1, sample 98, offset 46ee68, dts 102375, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 99, offset 46efc2, dts 103399, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 100, offset 46f116, dts 104423, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 101, offset 46f270, dts 105447, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 102, offset 46f3cc, dts 106471, size 356, distance 0, keyframe 1
+AVIndex stream 1, sample 103, offset 46f530, dts 107495, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 104, offset 46f689, dts 108519, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 105, offset 46f7d2, dts 109543, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 106, offset 46f923, dts 110567, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 107, offset 46fa77, dts 111591, size 360, distance 0, keyframe 1
+AVIndex stream 1, sample 108, offset 46fbdf, dts 112615, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 109, offset 46fd2b, dts 113639, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 110, offset 46fe7d, dts 114663, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 111, offset 46ffd0, dts 115687, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 112, offset 470119, dts 116711, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 113, offset 47026f, dts 117735, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 114, offset 4703c1, dts 118759, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 115, offset 470515, dts 119783, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 116, offset 470669, dts 120807, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 117, offset 4707c7, dts 121831, size 372, distance 0, keyframe 1
+AVIndex stream 1, sample 118, offset 47093b, dts 122855, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 119, offset 470a88, dts 123879, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 120, offset 470be3, dts 124903, size 370, distance 0, keyframe 1
+AVIndex stream 1, sample 121, offset 470d55, dts 125927, size 323, distance 0, keyframe 1
+AVIndex stream 1, sample 122, offset 470e98, dts 126951, size 386, distance 0, keyframe 1
+AVIndex stream 1, sample 123, offset 47101a, dts 127975, size 325, distance 0, keyframe 1
+AVIndex stream 1, sample 124, offset 47115f, dts 128999, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 125, offset 4712b1, dts 130023, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 126, offset 4713f7, dts 131047, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 127, offset 471543, dts 132071, size 370, distance 0, keyframe 1
+AVIndex stream 1, sample 128, offset 4716b5, dts 133095, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 129, offset 471808, dts 134119, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 130, offset 471959, dts 135143, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 131, offset 471aae, dts 136167, size 322, distance 0, keyframe 1
+AVIndex stream 1, sample 132, offset 471bf0, dts 137191, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 133, offset 471d41, dts 138215, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 134, offset 471e93, dts 139239, size 330, distance 0, keyframe 1
+AVIndex stream 1, sample 135, offset 471fdd, dts 140263, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 136, offset 47212c, dts 141287, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 137, offset 47227c, dts 142311, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 138, offset 4723cd, dts 143335, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 139, offset 47251e, dts 144359, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 140, offset 472675, dts 145383, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 141, offset 4727cb, dts 146407, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 142, offset 472918, dts 147431, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 143, offset 689c55, dts 148455, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 144, offset 689db0, dts 149479, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 145, offset 689eff, dts 150503, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 146, offset 68a058, dts 151527, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 147, offset 68a1ae, dts 152551, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 148, offset 68a306, dts 153575, size 356, distance 0, keyframe 1
+AVIndex stream 1, sample 149, offset 68a46a, dts 154599, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 150, offset 68a5c0, dts 155623, size 351, distance 0, keyframe 1
+AVIndex stream 1, sample 151, offset 68a71f, dts 156647, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 152, offset 68a86b, dts 157671, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 153, offset 68a9bd, dts 158695, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 154, offset 68ab18, dts 159719, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 155, offset 68ac6d, dts 160743, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 156, offset 68adbd, dts 161767, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 157, offset 68af18, dts 162791, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 158, offset 68b06f, dts 163815, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 159, offset 68b1c6, dts 164839, size 330, distance 0, keyframe 1
+AVIndex stream 1, sample 160, offset 68b310, dts 165863, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 161, offset 68b460, dts 166887, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 162, offset 68b5ba, dts 167911, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 163, offset 68b712, dts 168935, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 164, offset 68b866, dts 169959, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 165, offset 68b9b9, dts 170983, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 166, offset 68bb17, dts 172007, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 167, offset 68bc6f, dts 173031, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 168, offset 68bdbd, dts 174055, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 169, offset 68bf15, dts 175079, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 170, offset 68c060, dts 176103, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 171, offset 68c1b5, dts 177127, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 172, offset 68c307, dts 178151, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 173, offset 68c453, dts 179175, size 355, distance 0, keyframe 1
+AVIndex stream 1, sample 174, offset 68c5b6, dts 180199, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 175, offset 68c712, dts 181223, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 176, offset 68c860, dts 182247, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 177, offset 68c9b4, dts 183271, size 354, distance 0, keyframe 1
+AVIndex stream 1, sample 178, offset 68cb16, dts 184295, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 179, offset 68cc6b, dts 185319, size 407, distance 0, keyframe 1
+AVIndex stream 1, sample 180, offset 68ce02, dts 186343, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 181, offset 68cf4e, dts 187367, size 327, distance 0, keyframe 1
+AVIndex stream 1, sample 182, offset 68d095, dts 188391, size 327, distance 0, keyframe 1
+AVIndex stream 1, sample 183, offset 68d1dc, dts 189415, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 184, offset 68d337, dts 190439, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 185, offset 68d48c, dts 191463, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 186, offset 68d5d8, dts 192487, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 187, offset 68d72a, dts 193511, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 188, offset 68d87a, dts 194535, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 189, offset 68d9cc, dts 195559, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 190, offset 89d811, dts 196583, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 191, offset 89d95a, dts 197607, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 192, offset 89dab0, dts 198631, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 193, offset 89dbf9, dts 199655, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 194, offset 89dd56, dts 200679, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 195, offset 89deb3, dts 201703, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 196, offset 89e002, dts 202727, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 197, offset 89e14d, dts 203751, size 368, distance 0, keyframe 1
+AVIndex stream 1, sample 198, offset 89e2bd, dts 204775, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 199, offset 89e40c, dts 205799, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 200, offset 89e557, dts 206823, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 201, offset 89e6ac, dts 207847, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 202, offset 89e7fb, dts 208871, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 203, offset 89e94f, dts 209895, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 204, offset 89eaa9, dts 210919, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 205, offset 89ebf5, dts 211943, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 206, offset 89ed4f, dts 212967, size 359, distance 0, keyframe 1
+AVIndex stream 1, sample 207, offset 89eeb6, dts 213991, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 208, offset 89f010, dts 215015, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 209, offset 89f166, dts 216039, size 351, distance 0, keyframe 1
+AVIndex stream 1, sample 210, offset 89f2c5, dts 217063, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 211, offset 89f417, dts 218087, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 212, offset 89f564, dts 219111, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 213, offset 89f6b4, dts 220135, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 214, offset 89f803, dts 221159, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 215, offset 89f953, dts 222183, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 216, offset 89faa5, dts 223207, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 217, offset 89fbf4, dts 224231, size 378, distance 0, keyframe 1
+AVIndex stream 1, sample 218, offset 89fd6e, dts 225255, size 417, distance 0, keyframe 1
+AVIndex stream 1, sample 219, offset 89ff0f, dts 226279, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 220, offset 8a0063, dts 227303, size 324, distance 0, keyframe 1
+AVIndex stream 1, sample 221, offset 8a01a7, dts 228327, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 222, offset 8a02ed, dts 229351, size 325, distance 0, keyframe 1
+AVIndex stream 1, sample 223, offset 8a0432, dts 230375, size 319, distance 0, keyframe 1
+AVIndex stream 1, sample 224, offset 8a0571, dts 231399, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 225, offset 8a06bf, dts 232423, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 226, offset 8a0805, dts 233447, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 227, offset 8a0958, dts 234471, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 228, offset 8a0aa8, dts 235495, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 229, offset 8a0bfd, dts 236519, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 230, offset 8a0d54, dts 237543, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 231, offset 8a0e9f, dts 238567, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 232, offset 8a0ff3, dts 239591, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 233, offset 8a1149, dts 240615, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 234, offset 8a1295, dts 241639, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 235, offset 8a13ea, dts 242663, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 236, offset 8a1539, dts 243687, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 237, offset ac447e, dts 244711, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 238, offset ac45d9, dts 245735, size 362, distance 0, keyframe 1
+AVIndex stream 1, sample 239, offset ac4743, dts 246759, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 240, offset ac489d, dts 247783, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 241, offset ac49f9, dts 248807, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 242, offset ac4b44, dts 249831, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 243, offset ac4c9a, dts 250855, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 244, offset ac4df2, dts 251879, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 245, offset ac4f47, dts 252903, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 246, offset ac5099, dts 253927, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 247, offset ac51f3, dts 254951, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 248, offset ac5346, dts 255975, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 249, offset ac54a3, dts 256999, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 250, offset ac55f6, dts 258023, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 251, offset ac5749, dts 259047, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 252, offset ac58a6, dts 260071, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 253, offset ac59fc, dts 261095, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 254, offset ac5b53, dts 262119, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 255, offset ac5ca6, dts 263143, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 256, offset ac5df6, dts 264167, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 257, offset ac5f4a, dts 265191, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 258, offset ac609c, dts 266215, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 259, offset ac61ef, dts 267239, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 260, offset ac633a, dts 268263, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 261, offset ac6488, dts 269287, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 262, offset ac65e0, dts 270311, size 351, distance 0, keyframe 1
+AVIndex stream 1, sample 263, offset ac673f, dts 271335, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 264, offset ac6890, dts 272359, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 265, offset ac69ea, dts 273383, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 266, offset ac6b36, dts 274407, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 267, offset ac6c94, dts 275431, size 357, distance 0, keyframe 1
+AVIndex stream 1, sample 268, offset ac6df9, dts 276455, size 351, distance 0, keyframe 1
+AVIndex stream 1, sample 269, offset ac6f58, dts 277479, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 270, offset ac70a5, dts 278503, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 271, offset ac71f9, dts 279527, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 272, offset ac7356, dts 280551, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 273, offset ac74aa, dts 281575, size 353, distance 0, keyframe 1
+AVIndex stream 1, sample 274, offset ac760b, dts 282599, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 275, offset ac7760, dts 283623, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 276, offset ac78b5, dts 284647, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 277, offset ac7a03, dts 285671, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 278, offset ac7b53, dts 286695, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 279, offset ac7ca0, dts 287719, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 280, offset ac7df1, dts 288743, size 354, distance 0, keyframe 1
+AVIndex stream 1, sample 281, offset ac7f53, dts 289767, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 282, offset ac80a3, dts 290791, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 283, offset ac81f9, dts 291815, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 284, offset ce5475, dts 292839, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 285, offset ce55cc, dts 293863, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 286, offset ce5715, dts 294887, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 287, offset ce586d, dts 295911, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 288, offset ce59ca, dts 296935, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 289, offset ce5b1f, dts 297959, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 290, offset ce5c65, dts 298983, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 291, offset ce5dba, dts 300007, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 292, offset ce5f0f, dts 301031, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 293, offset ce605d, dts 302055, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 294, offset ce61b7, dts 303079, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 295, offset ce630e, dts 304103, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 296, offset ce6466, dts 305127, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 297, offset ce65c2, dts 306151, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 298, offset ce671d, dts 307175, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 299, offset ce686f, dts 308199, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 300, offset ce69c4, dts 309223, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 301, offset ce6b16, dts 310247, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 302, offset ce6c61, dts 311271, size 347, distance 0, keyframe 1
+AVIndex stream 1, sample 303, offset ce6dbc, dts 312295, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 304, offset ce6f12, dts 313319, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 305, offset ce706c, dts 314343, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 306, offset ce71bf, dts 315367, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 307, offset ce7313, dts 316391, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 308, offset ce7469, dts 317415, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 309, offset ce75b6, dts 318439, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 310, offset ce7705, dts 319463, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 311, offset ce7861, dts 320487, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 312, offset ce79bb, dts 321511, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 313, offset ce7b0c, dts 322535, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 314, offset ce7c65, dts 323559, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 315, offset ce7dc1, dts 324583, size 353, distance 0, keyframe 1
+AVIndex stream 1, sample 316, offset ce7f22, dts 325607, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 317, offset ce806b, dts 326631, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 318, offset ce81bf, dts 327655, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 319, offset ce830c, dts 328679, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 320, offset ce8461, dts 329703, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 321, offset ce85b7, dts 330727, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 322, offset ce8713, dts 331751, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 323, offset ce886b, dts 332775, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 324, offset ce89bb, dts 333799, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 325, offset ce8b19, dts 334823, size 355, distance 0, keyframe 1
+AVIndex stream 1, sample 326, offset ce8c7c, dts 335847, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 327, offset ce8dd2, dts 336871, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 328, offset ce8f27, dts 337895, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 329, offset ce907e, dts 338919, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 330, offset ce91d1, dts 339943, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 331, offset efd0f6, dts 340967, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 332, offset efd243, dts 341991, size 352, distance 0, keyframe 1
+AVIndex stream 1, sample 333, offset efd3a3, dts 343015, size 359, distance 0, keyframe 1
+AVIndex stream 1, sample 334, offset efd50a, dts 344039, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 335, offset efd659, dts 345063, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 336, offset efd7a7, dts 346087, size 358, distance 0, keyframe 1
+AVIndex stream 1, sample 337, offset efd90d, dts 347111, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 338, offset efda5b, dts 348135, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 339, offset efdba8, dts 349159, size 329, distance 0, keyframe 1
+AVIndex stream 1, sample 340, offset efdcf1, dts 350183, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 341, offset efde40, dts 351207, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 342, offset efdf94, dts 352231, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 343, offset efe0e7, dts 353255, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 344, offset efe23a, dts 354279, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 345, offset efe38c, dts 355303, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 346, offset efe4dd, dts 356327, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 347, offset efe62c, dts 357351, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 348, offset efe783, dts 358375, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 349, offset efe8d9, dts 359399, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 350, offset efea30, dts 360423, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 351, offset efeb81, dts 361447, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 352, offset efecdf, dts 362471, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 353, offset efee38, dts 363495, size 338, distance 0, keyframe 1
+AVIndex stream 1, sample 354, offset efef8a, dts 364519, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 355, offset eff0d8, dts 365543, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 356, offset eff227, dts 366567, size 330, distance 0, keyframe 1
+AVIndex stream 1, sample 357, offset eff371, dts 367591, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 358, offset eff4cb, dts 368615, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 359, offset eff621, dts 369639, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 360, offset eff77a, dts 370663, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 361, offset eff8d1, dts 371687, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 362, offset effa2a, dts 372711, size 354, distance 0, keyframe 1
+AVIndex stream 1, sample 363, offset effb8c, dts 373735, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 364, offset effcda, dts 374759, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 365, offset effe28, dts 375783, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 366, offset efff76, dts 376807, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 367, offset f000cb, dts 377831, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 368, offset f00224, dts 378855, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 369, offset f0037d, dts 379879, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 370, offset f004d4, dts 380903, size 349, distance 0, keyframe 1
+AVIndex stream 1, sample 371, offset f00631, dts 381927, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 372, offset f0078a, dts 382951, size 361, distance 0, keyframe 1
+AVIndex stream 1, sample 373, offset f008f3, dts 383975, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 374, offset f00a43, dts 384999, size 332, distance 0, keyframe 1
+AVIndex stream 1, sample 375, offset f00b8f, dts 386023, size 357, distance 0, keyframe 1
+AVIndex stream 1, sample 376, offset f00cf4, dts 387047, size 352, distance 0, keyframe 1
+AVIndex stream 1, sample 377, offset f00e54, dts 388071, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 378, offset 1231d51, dts 389095, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 379, offset 1231ea4, dts 390119, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 380, offset 1231ff2, dts 391143, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 381, offset 123213f, dts 392167, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 382, offset 1232296, dts 393191, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 383, offset 12323e9, dts 394215, size 354, distance 0, keyframe 1
+AVIndex stream 1, sample 384, offset 123254b, dts 395239, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 385, offset 12326a9, dts 396263, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 386, offset 12327fc, dts 397287, size 327, distance 0, keyframe 1
+AVIndex stream 1, sample 387, offset 1232943, dts 398311, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 388, offset 1232a99, dts 399335, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 389, offset 1232bef, dts 400359, size 342, distance 0, keyframe 1
+AVIndex stream 1, sample 390, offset 1232d45, dts 401383, size 333, distance 0, keyframe 1
+AVIndex stream 1, sample 391, offset 1232e92, dts 402407, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 392, offset 1232fe6, dts 403431, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 393, offset 1233135, dts 404455, size 345, distance 0, keyframe 1
+AVIndex stream 1, sample 394, offset 123328e, dts 405479, size 326, distance 0, keyframe 1
+AVIndex stream 1, sample 395, offset 12333d4, dts 406503, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 396, offset 123352b, dts 407527, size 340, distance 0, keyframe 1
+AVIndex stream 1, sample 397, offset 123367f, dts 408551, size 346, distance 0, keyframe 1
+AVIndex stream 1, sample 398, offset 12337d9, dts 409575, size 358, distance 0, keyframe 1
+AVIndex stream 1, sample 399, offset 123393f, dts 410599, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 400, offset 1233a96, dts 411623, size 343, distance 0, keyframe 1
+AVIndex stream 1, sample 401, offset 1233bed, dts 412647, size 350, distance 0, keyframe 1
+AVIndex stream 1, sample 402, offset 1233d4b, dts 413671, size 331, distance 0, keyframe 1
+AVIndex stream 1, sample 403, offset 1233e96, dts 414695, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 404, offset 1233fe7, dts 415719, size 341, distance 0, keyframe 1
+AVIndex stream 1, sample 405, offset 123413c, dts 416743, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 406, offset 123428b, dts 417767, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 407, offset 12343da, dts 418791, size 353, distance 0, keyframe 1
+AVIndex stream 1, sample 408, offset 123453b, dts 419815, size 337, distance 0, keyframe 1
+AVIndex stream 1, sample 409, offset 123468c, dts 420839, size 348, distance 0, keyframe 1
+AVIndex stream 1, sample 410, offset 12347e8, dts 421863, size 344, distance 0, keyframe 1
+AVIndex stream 1, sample 411, offset 1234940, dts 422887, size 335, distance 0, keyframe 1
+AVIndex stream 1, sample 412, offset 1234a8f, dts 423911, size 336, distance 0, keyframe 1
+AVIndex stream 1, sample 413, offset 1234bdf, dts 424935, size 334, distance 0, keyframe 1
+AVIndex stream 1, sample 414, offset 1234d2d, dts 425959, size 352, distance 0, keyframe 1
+AVIndex stream 1, sample 415, offset 1234e8d, dts 426983, size 339, distance 0, keyframe 1
+AVIndex stream 1, sample 416, offset 1234fe0, dts 428007, size 339, distance 0, keyframe 1
+on_parse_exit_offset=19096078
+rfps: 29.916667 0.007516
+rfps: 29.916667 0.007516
+rfps: 30.000000 0.000067
+rfps: 30.000000 0.000067
+rfps: 60.000000 0.000269
+rfps: 60.000000 0.000269
+rfps: 120.000000 0.001075
+rfps: 120.000000 0.001075
+rfps: 240.000000 0.004299
+rfps: 240.000000 0.004299
+rfps: 29.970030 0.001325
+rfps: 29.970030 0.001325
+rfps: 59.940060 0.005300
+rfps: 59.940060 0.005300
+Before avformat_find_stream_info() pos: 19096078 bytes read:37083 seeks:1 nb_streams:2
+nal_unit_type: 7, nal_ref_idc: 3
+nal_unit_type: 8, nal_ref_idc: 3
+stream 0, sample 0, dts 0
+stream 1, sample 0, dts 0
+stream 0, sample 0, dts 0
+stream 1, sample 1, dts 63479
+stream 0, sample 0, dts 0
+stream 1, sample 2, dts 84813
+stream 0, sample 0, dts 0
+stream 1, sample 3, dts 106146
+stream 0, sample 0, dts 0
+stream 1, sample 4, dts 127479
+stream 0, sample 0, dts 0
+stream 1, sample 5, dts 148813
+stream 0, sample 0, dts 0
+stream 1, sample 6, dts 170146
+stream 0, sample 0, dts 0
+stream 1, sample 7, dts 191479
+stream 0, sample 0, dts 0
+stream 1, sample 8, dts 212813
+stream 0, sample 0, dts 0
+stream 1, sample 9, dts 234146
+stream 0, sample 0, dts 0
+stream 1, sample 10, dts 255479
+stream 0, sample 0, dts 0
+stream 1, sample 11, dts 276813
+stream 0, sample 0, dts 0
+stream 1, sample 12, dts 298146
+stream 0, sample 0, dts 0
+stream 1, sample 13, dts 319479
+stream 0, sample 0, dts 0
+stream 1, sample 14, dts 340813
+stream 0, sample 0, dts 0
+stream 1, sample 15, dts 362146
+stream 0, sample 0, dts 0
+stream 1, sample 16, dts 383479
+stream 0, sample 0, dts 0
+stream 1, sample 17, dts 404813
+stream 0, sample 0, dts 0
+stream 1, sample 18, dts 426146
+stream 0, sample 0, dts 0
+stream 1, sample 19, dts 447479
+stream 0, sample 0, dts 0
+stream 1, sample 20, dts 468813
+stream 0, sample 0, dts 0
+stream 1, sample 21, dts 490146
+stream 0, sample 0, dts 0
+stream 1, sample 22, dts 511479
+stream 0, sample 0, dts 0
+stream 1, sample 23, dts 532813
+stream 0, sample 0, dts 0
+stream 1, sample 24, dts 554146
+stream 0, sample 0, dts 0
+stream 1, sample 25, dts 575479
+stream 0, sample 0, dts 0
+stream 1, sample 26, dts 596813
+stream 0, sample 0, dts 0
+stream 1, sample 27, dts 618146
+stream 0, sample 0, dts 0
+stream 1, sample 28, dts 639479
+stream 0, sample 0, dts 0
+stream 1, sample 29, dts 660813
+stream 0, sample 0, dts 0
+stream 1, sample 30, dts 682146
+stream 0, sample 0, dts 0
+stream 1, sample 31, dts 703479
+stream 0, sample 0, dts 0
+stream 1, sample 32, dts 724813
+stream 0, sample 0, dts 0
+stream 1, sample 33, dts 746146
+stream 0, sample 0, dts 0
+stream 1, sample 34, dts 767479
+stream 0, sample 0, dts 0
+stream 1, sample 35, dts 788813
+stream 0, sample 0, dts 0
+stream 1, sample 36, dts 810146
+stream 0, sample 0, dts 0
+stream 1, sample 37, dts 831479
+stream 0, sample 0, dts 0
+stream 1, sample 38, dts 852813
+stream 0, sample 0, dts 0
+stream 1, sample 39, dts 874146
+stream 0, sample 0, dts 0
+stream 1, sample 40, dts 895479
+stream 0, sample 0, dts 0
+stream 1, sample 41, dts 916813
+stream 0, sample 0, dts 0
+stream 1, sample 42, dts 938146
+stream 0, sample 0, dts 0
+stream 1, sample 43, dts 959479
+stream 0, sample 0, dts 0
+stream 1, sample 44, dts 980813
+stream 0, sample 0, dts 0
+stream 1, sample 45, dts 1002146
+nal_unit_type: 5, nal_ref_idc: 3
+Reinit context to 1920x1088, pix_fmt: yuv420p
+no picture 
+All info found
+stream 0: start_time: 0.000 duration: 8.897
+stream 1: start_time: 0.000 duration: 8.938
+format: start_time: 0.000 duration: 8.898 bitrate=17168 kb/s
+After avformat_find_stream_info() pos: 107207 bytes read:144258 seeks:2 frames:46
+Picture size 0x0 is invalid
+Picture size 0x0 is invalid
+Assertion desc failed at libswscale/swscale_internal.h:674
